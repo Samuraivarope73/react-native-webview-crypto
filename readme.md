@@ -1,5 +1,3 @@
-# NOTICE: The project is no longer actively maintained, if you wish to maintain it please leave a message
-
 # react-native-webview-crypto
 
 [![npm](https://img.shields.io/npm/v/react-native-webview-crypto?style=flat-square)](https://www.npmjs.com/package/react-native-webview-crypto)
